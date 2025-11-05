@@ -7,4 +7,4 @@
 - 🧠 Goals: Google Summer of Code 2026  
 - 💬 Ask me about Python, HTML/CSS, Git, or open-source contributions  
 
-📫 Reach me at: [your.email@gmail.com](mailto:your.email@gmail.com)
+📫 Reach me at: [ayushscodes@gmail.com](mailto:ayushscodes@gmail.com)
