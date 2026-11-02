@@ -11,7 +11,7 @@ Currently focused on improving my development skills through real-world projects
 - 🌱 Contributing to **FOSSASIA – Eventyay**.
 - 💻 Exploring backend and full-stack development.
 - ☁️ Learning about cloud computing and software architecture.
-- 🎯 Preparing for **Google Summer of Code 2027**.
+
 
 ### 🛠️ Tech Stack
 
