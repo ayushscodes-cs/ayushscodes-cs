@@ -1,47 +1,21 @@
-# Hey, I'm Ayush! 👋
 
-### Computer Science Student | Backend & Full-Stack Developer | Open Source Contributor
+# Hi, I'm Ayush 👋
 
-I'm a Computer Science student passionate about building practical software, exploring new technologies, and contributing to open-source projects.
+I'm a Computer Science student interested in backend & full-stack development and open source.
 
-Currently focused on improving my development skills through real-world projects and open-source contributions.
+### Currently
+- Contributing to [FOSSASIA](https://github.com/fossasia).
+- Exploring backend and web development.
+- Learning Docker and Cloud Computing.
 
-### 🚀 What I'm Working On
+### Tech Stack
+- **Languages:** Python, Java, JavaScript
+- **Web:** HTML, CSS, Django, Flask
+- **Databases:** SQL, SQLite, PostgreSQL
+- **Tools:** Git, GitHub, Docker
 
-- 🌱 Contributing to **FOSSASIA – Eventyay**.
-- 💻 Exploring backend and full-stack development.
-- ☁️ Learning about cloud computing and software architecture.
-
-
-### 🛠️ Tech Stack
-
-**Languages**
-- Java
-- Python
-- JavaScript
-
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-
-**Tools & Technologies**
-- Git & GitHub
-- Docker
-- PostgreSQL
-- Linux
-
-### 🌍 Open Source
-
-Currently exploring and contributing to open-source software, with a focus on understanding large codebases, fixing bugs, improving accessibility, and collaborating with maintainers.
-
-- Organization: [FOSSASIA](https://github.com/fossasia)
-- Project: [Eventyay](https://github.com/fossasia/eventyay)
-
-### 📫 Connect With Me
-
-- GitHub: [@ayushscodes-cs](https://github.com/ayushscodes-cs)
-
----
-
-*Always learning, building, and contributing.* 🚀
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/ayush-s-2a6a4a3a1/)
+- [GitHub](https://github.com/ayushscodes-cs)
+- [Email](ayushs.codes@gmail.com)
+Always learning and building.
