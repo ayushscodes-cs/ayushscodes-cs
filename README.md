@@ -1,3 +1,4 @@
+<img width="1400" height="788" alt="github banner" src="https://github.com/user-attachments/assets/c16e885a-928a-4825-adc6-2ac5ef75fdfc" />
 
 # Hi, I'm Ayush 👋
 
